@@ -2,17 +2,28 @@
 
 tile.contenttweaker.end_iron.name=聚影鐵礦
 tile.contenttweaker.glitched_obsidian.name=故障黑曜石
+tile.contenttweaker.end_trim.name=龍木材板磚
+tile.contenttweaker.rainbow_block.name=彩虹塊
+tile.contenttweaker.wither_crystal.name=凋亡水晶
+tile.contenttweaker.water_crystal.name=海洋水晶
+tile.contenttweaker.fire_crystal.name=烈焰水晶
+tile.contenttweaker.life_crystal.name=生命水晶
+tile.contenttweaker.eden_leaves.name=伊甸園蘋果樹葉
+tile.contenttweaker.eden_leaves_fruitless.name=伊甸園樹葉
+tile.contenttweaker.dilithium_block.name=二鋰晶體方塊
+
 item.contenttweaker.end_seeds.name=終界種子
 item.contenttweaker.end_iron_chunk.name=聚影鐵塊
 item.contenttweaker.origin_book.name=原初之書
 item.contenttweaker.nether_book.name=境界之書
-item.contenttweaker.clay_board.name=粘土板
+item.contenttweaker.overworld_book.name=生命法球
+item.contenttweaker.clay_board.name=黏土板
 item.contenttweaker.ccb_base.name=陶瓷電路板基板
 item.contenttweaker.pottery_clay.name=陶土
 item.contenttweaker.ccb.name=陶瓷電路板
 item.contenttweaker.solder_powder.name=焊料粉末
 item.contenttweaker.solder_bucket.name=桶裝焊料粉末
-item.contenttweaker.biome_scanner_basic.name=基礎生物群戲掃描儀框架
+item.contenttweaker.biome_scanner_basic.name=基礎生物群係掃描儀框架
 item.contenttweaker.terrain_scanner.name=地形掃描儀框架
 item.contenttweaker.blue_lotus.name=藍蓮花
 item.contenttweaker.paper_plane_0.name=紙飛機（1/7）
@@ -23,14 +34,49 @@ item.contenttweaker.paper_plane_4.name=紙飛機（5/7）
 item.contenttweaker.paper_plane_5.name=紙飛機（6/7）
 item.contenttweaker.paper_plane_6.name=紙飛機
 item.contenttweaker.mana_paper.name=魔力紙片
+item.contenttweaker.rotten_pork.name=腐爛的豬肉
+item.contenttweaker.dynamo_frame.name=發電機框架
+item.contenttweaker.overworld_star.name=主世界之星
+item.contenttweaker.rainbow_ingot.name=彩虹錠
+item.contenttweaker.trophy.name=獎盃
+item.contenttweaker.chaos_pearl.name=混沌珍珠
+item.contenttweaker.recall_pearl.name=回傳珍珠
+item.contenttweaker.shard.name=賦能的拉普達碎片
+item.contenttweaker.core.name=漂浮之核
+item.contenttweaker.dragon_spirit.name=龍的精神
+item.contenttweaker.crystal.name=靈魂水晶
+item.contenttweaker.scroll.name=施術卷軸
+item.contenttweaker.scroll_ignis.name=發熱卷軸
+item.contenttweaker.dna.name=起源的DNA
+item.contenttweaker.contract.name=合同資料夾
+item.contenttweaker.apple.name=伊甸園的蘋果
+item.contenttweaker.essence_wither.name=凋零精華
+item.contenttweaker.essence_blaze.name=烈焰神精華
+item.contenttweaker.essence_pigman.name=豬人精華
+item.contenttweaker.essence_magma.name=岩漿精華
+item.contenttweaker.essence_ghast.name=幽靈精華
+item.contenttweaker.crystal_wither.name=凋零水晶
+item.contenttweaker.crystal_blaze.name=烈焰神水晶
+item.contenttweaker.crystal_pigman.name=豬人水晶
+item.contenttweaker.crystal_magma.name=岩漿水晶
+item.contenttweaker.crystal_ghast.name=幽靈水晶
+item.contenttweaker.rainbowgen.name=彩虹發電機 (Hand-Crafted)
+item.contenttweaker.globe.name=微型天空之城水晶球
+item.contenttweaker.potion.name=浮空藥瓶
 
 #Levitated 客製化物品使用資訊
 item.contenttweaker.origin_book.message=出生點已重設！
 item.contenttweaker.nether_book.message=你現在可以前往地獄了!
+item.contenttweaker.overworld_book.message=你現在可以前往主世界了!
 item.contenttweaker.paper_plane_6.message=你需要等待紙飛機返回！
+item.contenttweaker.chaos_pearl.message=讓混沌之神先平静一下吧!
+item.contenttweaker.apple.message=又一個人失敗了。
 
 #Levitated 客製化流體
 fluid.solder=焊料
+fluid.nuclear=核能
 
 #Levitated 客製化機械
 machine.crafttweaker:assembler=電路組裝機
+
+enchantment.feather_falling="羽毛"落下
